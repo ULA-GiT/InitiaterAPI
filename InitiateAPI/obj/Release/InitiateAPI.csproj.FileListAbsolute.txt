@@ -1,0 +1,17 @@
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\InitiateAPI.dll.config
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\InitiateAPI.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\InitiateAPI.pdb
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\Newtonsoft.Json.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Net.Http.Formatting.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Web.Http.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Web.Http.WebHost.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\Newtonsoft.Json.xml
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Net.Http.Formatting.xml
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Web.Http.xml
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Web.Http.WebHost.xml
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\obj\Release\InitiateAPI.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\obj\Release\InitiateAPI.pdb
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\obj\Release\InitiateAPI.csprojResolveAssemblyReference.cache
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Web.Cors.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Web.Http.Cors.dll
+c:\users\rspagnuolo\documents\visual studio 2013\Projects\Pruebas\InitiateAPI\InitiateAPI\bin\System.Web.Http.Cors.xml
